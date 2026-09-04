@@ -1,8 +1,8 @@
 # Carter Howell
 
-Electrical engineering student at Tennessee Technological University focused on embedded systems, PCB design, robotics, product development, and engineering automation.
+I'm an electrical engineering student at Tennessee Technological University building toward embedded systems, PCB design, robotics, product development, power electronics, and engineering automation.
 
-I like building real systems that connect hardware, firmware, software, and practical testing. My strongest interests are consumer electronics, robotics, custom PCBs, battery-powered devices, power electronics, and tools that make engineering work faster and more reliable.
+My projects focus on real hardware systems: ESP32-based robotics, custom PCBs, battery protection, EDA automation, and software tools that support physical products.
 
 ## Current Focus
 
@@ -16,17 +16,25 @@ I like building real systems that connect hardware, firmware, software, and prac
 
 ### DIY Wall-E Robot
 
+Status: Active robotics platform
+
 Multidisciplinary robotics project using ESP32 control, servo and motor systems, Bluetooth gamepad input, 3D-printed mechanisms, audio, sensors, battery power, and a path toward a consolidated custom controller PCB.
 
 ### AI-Assisted PCB Design Environment
+
+Status: Active engineering automation work
 
 Engineering automation work connecting Codex, EasyEDA Pro, MCP tooling, and local model experimentation to explore how AI agents can inspect, reason about, and assist with electronics design workflows.
 
 ### Low-Voltage Cutoff PCB
 
+Status: PCB design / electrical design project
+
 Electrical design project focused on battery protection, voltage thresholds, schematic capture, PCB layout, component selection, and practical power-electronics documentation.
 
 ### Dual Robotic Arms
+
+Status: Prototype robotics project
 
 Robotics project involving servo control, 3D-printed mechanisms, embedded programming, and multi-axis hardware integration.
 
@@ -48,4 +56,6 @@ Project archive and portfolio:
 
 ## Direction
 
-I am building toward roles in consumer electronics, product development, embedded systems, PCB/electronics design, robotics, R&D, and power electronics. The long-term goal is to become the kind of electrical engineer who can design, prototype, debug, document, and improve complete real-world products.
+I am building toward roles in consumer electronics, product development, embedded systems, PCB/electronics design, robotics, R&D, and power electronics.
+
+The long-term goal is to become the kind of electrical engineer who can design, prototype, debug, document, and improve complete real-world products.
