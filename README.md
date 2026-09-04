@@ -14,6 +14,8 @@ My projects focus on real hardware systems: ESP32-based robotics, custom PCBs, b
 
 ## Featured Engineering Work
 
+Status terms: `Active` means currently being developed, `Prototype` means an implementation exists or is being assembled/tested, and `Design` means the engineering design work exists but validation may still be in progress.
+
 ### DIY Wall-E Robot
 
 Status: Active robotics platform
