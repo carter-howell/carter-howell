@@ -66,9 +66,9 @@ Recent examples include:
 - [College Choice Hub](https://github.com/carter-howell/college-choice-hub): Student college-preference web app archive originally built with PHP, SQL, and AJAX, then migrated to Firebase.
 - [CashCamel](https://github.com/carter-howell/cashcamel): Firebase web app archive for friend-group contracts, deposits, withdrawals, and agreement-based workflows.
 
-## Archive Projects
+## Earlier Projects
 
-I keep older projects available as evidence of long-term building experience, but I place them below my current electrical-engineering work.
+These are earlier projects I still like keeping visible because they show how long I have been building things, experimenting with tools, and finishing playable or usable work.
 
 - [Hollow Clock](https://github.com/carter-howell/hollow-clock): 3D-printed magnetic clock using an RP2040 Zero and stepper motor.
 - [Platformer UE4 Game](https://github.com/carter-howell/platformer-ue4-game): Early Unreal Engine 4 platformer project.
