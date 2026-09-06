@@ -14,13 +14,13 @@ My projects focus on real hardware systems: ESP32-based robotics, custom PCBs, b
 
 ## Featured Engineering Work
 
-Status terms: `Active` means currently being developed, `Prototype` means an implementation exists or is being assembled/tested, and `Design` means the engineering design work exists but validation may still be in progress.
+I use status terms carefully: `Active` means I am currently developing it, `Prototype` means an implementation exists or is being assembled/tested, and `Design` means the engineering design work exists but validation may still be in progress.
 
 ### DIY Wall-E Robot
 
 Status: Active robotics platform
 
-Multidisciplinary robotics project using ESP32 control, servo and motor systems, Bluetooth gamepad input, 3D-printed mechanisms, audio, sensors, battery power, and a path toward a consolidated custom controller PCB.
+I am building this as a multidisciplinary robotics project using ESP32 control, servo and motor systems, Bluetooth gamepad input, 3D-printed mechanisms, audio, sensors, battery power, and a path toward a consolidated custom controller PCB.
 
 Repo: [wall-e-robotics-platform](https://github.com/carter-howell/wall-e-robotics-platform)
 
@@ -28,13 +28,13 @@ Repo: [wall-e-robotics-platform](https://github.com/carter-howell/wall-e-robotic
 
 Status: Active engineering automation work
 
-Engineering automation work connecting Codex, EasyEDA Pro, MCP tooling, and local model experimentation to explore how AI agents can inspect, reason about, and assist with electronics design workflows.
+I am experimenting with Codex, EasyEDA Pro, MCP tooling, and local models to explore how AI agents can inspect, reason about, and assist with electronics design workflows.
 
 ### Low-Voltage Cutoff PCB
 
 Status: PCB design / electrical design project
 
-Electrical design project focused on battery protection, voltage thresholds, schematic capture, PCB layout, component selection, and practical power-electronics documentation.
+I designed this board to practice battery protection, voltage thresholds, schematic capture, PCB layout, component selection, and practical power-electronics documentation.
 
 Repo: [low-voltage-cutoff-pcb](https://github.com/carter-howell/low-voltage-cutoff-pcb)
 
@@ -42,7 +42,7 @@ Repo: [low-voltage-cutoff-pcb](https://github.com/carter-howell/low-voltage-cuto
 
 Status: Prototype robotics project
 
-Robotics project involving servo control, 3D-printed mechanisms, embedded programming, and multi-axis hardware integration.
+I built this robotics project around servo control, 3D-printed mechanisms, embedded programming, and multi-axis hardware integration.
 
 Repo: [dual-robotic-arms](https://github.com/carter-howell/dual-robotic-arms)
 
@@ -50,7 +50,7 @@ Repo: [dual-robotic-arms](https://github.com/carter-howell/dual-robotic-arms)
 
 Status: Prototype embedded vehicle project
 
-ESP32-CAM vehicle project combining live video, browser control, Xbox controller support, L298N motor drive, soldered wiring, power conversion, and 3D-printed chassis work.
+I built this ESP32-CAM vehicle to combine live video, browser control, Xbox controller support, L298N motor drive, soldered wiring, power conversion, and 3D-printed chassis work.
 
 Repo: [web-controlled-rc-car](https://github.com/carter-howell/web-controlled-rc-car)
 
@@ -68,7 +68,7 @@ Recent examples include:
 
 ## Archive Projects
 
-Older projects stay available as evidence of long-term building experience, but they sit below the current electrical-engineering work.
+I keep older projects available as evidence of long-term building experience, but I place them below my current electrical-engineering work.
 
 - [Hollow Clock](https://github.com/carter-howell/hollow-clock): 3D-printed magnetic clock using an RP2040 Zero and stepper motor.
 - [Platformer UE4 Game](https://github.com/carter-howell/platformer-ue4-game): Early Unreal Engine 4 platformer project.
@@ -84,4 +84,4 @@ Project archive and portfolio:
 
 I am building toward roles in consumer electronics, product development, embedded systems, PCB/electronics design, robotics, R&D, and power electronics.
 
-The long-term goal is to become the kind of electrical engineer who can design, prototype, debug, document, and improve complete real-world products.
+My long-term goal is to become the kind of electrical engineer who can design, prototype, debug, document, and improve complete real-world products.
