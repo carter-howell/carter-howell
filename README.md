@@ -1,16 +1,16 @@
 # Carter Howell
 
-I'm an electrical engineering student at Tennessee Technological University building toward embedded systems, PCB design, robotics, product development, power electronics, and engineering automation.
+I'm an electrical engineering student at Tennessee Technological University. I build robots, ESP32 projects, circuit boards, and software for working with electronics.
 
-My projects focus on real hardware systems: ESP32-based robotics, custom PCBs, battery protection, EDA automation, and software tools that support physical products.
+Most of my current work involves motors, servos, batteries, embedded firmware, PCB design, and EasyEDA automation.
 
 ## Current Focus
 
-- Embedded systems and ESP32-based hardware
+- ESP32 firmware and electronics
 - PCB design, power distribution, and battery protection
-- Robotics and electromechanical product development
-- Open-source EasyEDA automation and MCP integration
-- Practical engineering documentation with schematics, test results, and revision history
+- Robots with motors, servos, sensors, and 3D-printed parts
+- EasyEDA tools that communicate through MCP
+- Schematics, test results, and hardware revision notes
 
 ## Featured Engineering Work
 
@@ -18,9 +18,9 @@ My projects focus on real hardware systems: ESP32-based robotics, custom PCBs, b
 
 Status: Working robot / active improvements
 
-I built this multidisciplinary robot using ESP32 control, servo and motor systems, Bluetooth gamepad input, 3D-printed mechanisms, audio, sensors, and battery power. The robot works, and I continue improving its electronics and consolidated controller PCB design.
+I built this Wall-E robot with an ESP32, DC drive motors, servo-controlled arms and claws, Bluetooth gamepad control, a DFPlayer Mini, and 3D-printed parts. It works, and I am improving the wiring and designing a controller PCB for it.
 
-Repo: [wall-e-robotics-platform](https://github.com/carter-howell/wall-e-robotics-platform)
+Repo: [wall-e-robot](https://github.com/carter-howell/wall-e-robot)
 
 ### EasyEDA Copilot Contributions
 
@@ -42,21 +42,21 @@ Repo: [low-voltage-cutoff-pcb](https://github.com/carter-howell/low-voltage-cuto
 
 Status: Completed and working robotics project
 
-I built this robotics project around servo control, 3D-printed mechanisms, embedded programming, and multi-axis hardware integration.
+I built two 3D-printed robotic arms controlled by an ESP32 and Xbox controller. The firmware maps the controller inputs to the servos through PCA9685 driver boards.
 
 Repo: [dual-robotic-arms](https://github.com/carter-howell/dual-robotic-arms)
 
 ### Web-Controlled RC Car
 
-Status: Working embedded vehicle / active improvements
+Status: Working RC car / active improvements
 
-I built this ESP32-CAM vehicle to combine live video, browser control, Xbox controller support, L298N motor drive, soldered wiring, power conversion, and 3D-printed chassis work.
+I built this RC car with an ESP32-CAM, browser controls, Xbox controller support, an L298N motor driver, soldered wiring, a boosted 1S battery, and a 3D-printed chassis.
 
 Repo: [web-controlled-rc-car](https://github.com/carter-howell/web-controlled-rc-car)
 
 ## Supporting Software
 
-My software background supports my engineering work. I build utilities, web tools, cloud-connected systems, and automation when they help hardware projects, documentation, testing, or product workflows.
+I also build desktop utilities, web applications, and cloud-connected tools.
 
 Recent examples include:
 
@@ -84,4 +84,4 @@ Project archive and portfolio:
 
 I am building toward roles in consumer electronics, product development, embedded systems, PCB/electronics design, robotics, R&D, and power electronics.
 
-My long-term goal is to become the kind of electrical engineer who can design, prototype, debug, document, and improve complete real-world products.
+I want to work on products where I can help with the electronics, firmware, testing, and the rest of the build instead of only one isolated part.
