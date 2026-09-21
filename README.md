@@ -14,8 +14,6 @@ My projects focus on real hardware systems: ESP32-based robotics, custom PCBs, b
 
 ## Featured Engineering Work
 
-I use status terms to distinguish working projects that I still improve from projects that are finished. Documentation improvements do not mean the underlying hardware is incomplete.
-
 ### DIY Wall-E Robot
 
 Status: Working robot / active improvements
@@ -36,7 +34,7 @@ Repos: [contribution showcase](https://github.com/carter-howell/easyeda-copilot-
 
 Status: Completed and working PCB
 
-I designed, assembled, and tested this board for battery protection and load disconnection. It demonstrates voltage-threshold design, schematic capture, PCB layout, component selection, manufacturing, assembly, and practical power-electronics debugging.
+I designed, assembled, and tested this battery-protection board. I took it from threshold calculations and schematic capture through PCB layout, manufacturing, assembly, and debugging.
 
 Repo: [low-voltage-cutoff-pcb](https://github.com/carter-howell/low-voltage-cutoff-pcb)
 
