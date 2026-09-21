@@ -9,7 +9,7 @@ My projects focus on real hardware systems: ESP32-based robotics, custom PCBs, b
 - Embedded systems and ESP32-based hardware
 - PCB design, power distribution, and battery protection
 - Robotics and electromechanical product development
-- AI-assisted EDA workflows with Codex, MCP, and EasyEDA Pro
+- Open-source EasyEDA automation and MCP integration
 - Practical engineering documentation with schematics, test results, and revision history
 
 ## Featured Engineering Work
@@ -24,11 +24,13 @@ I am building this as a multidisciplinary robotics project using ESP32 control, 
 
 Repo: [wall-e-robotics-platform](https://github.com/carter-howell/wall-e-robotics-platform)
 
-### AI-Assisted PCB Design Environment
+### EasyEDA Copilot Contributions
 
-Status: Active engineering automation work
+Status: Active open-source contribution work
 
-I am experimenting with Codex, EasyEDA Pro, MCP tooling, and local models to explore how AI agents can inspect, reason about, and assist with electronics design workflows.
+I contribute tested improvements to BioShot's open-source EasyEDA Copilot project. My current pull requests address incomplete project trees, safer linked-board deletion, full EasyEDA library search, and cooperative interruption of long-running scripts.
+
+Repos: [contribution showcase](https://github.com/carter-howell/pcb-designer) | [EasyEDA Copilot fork](https://github.com/carter-howell/easyeda-copilot)
 
 ### Low-Voltage Cutoff PCB
 
