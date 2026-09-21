@@ -14,19 +14,19 @@ My projects focus on real hardware systems: ESP32-based robotics, custom PCBs, b
 
 ## Featured Engineering Work
 
-I use status terms carefully: `Active` means I am currently developing it, `Prototype` means an implementation exists or is being assembled/tested, and `Design` means the engineering design work exists but validation may still be in progress.
+I use status terms to distinguish working projects that I still improve from projects that are finished. Documentation improvements do not mean the underlying hardware is incomplete.
 
 ### DIY Wall-E Robot
 
-Status: Active robotics platform
+Status: Working robot / active improvements
 
-I am building this as a multidisciplinary robotics project using ESP32 control, servo and motor systems, Bluetooth gamepad input, 3D-printed mechanisms, audio, sensors, battery power, and a path toward a consolidated custom controller PCB.
+I built this multidisciplinary robot using ESP32 control, servo and motor systems, Bluetooth gamepad input, 3D-printed mechanisms, audio, sensors, and battery power. The robot works, and I continue improving its electronics and consolidated controller PCB design.
 
 Repo: [wall-e-robotics-platform](https://github.com/carter-howell/wall-e-robotics-platform)
 
 ### EasyEDA Copilot Contributions
 
-Status: Active open-source contribution work
+Status: Working EDA automation / active open-source contributions
 
 I contribute tested improvements to BioShot's open-source EasyEDA Copilot project. My current pull requests address incomplete project trees, safer linked-board deletion, full EasyEDA library search, and cooperative interruption of long-running scripts.
 
@@ -34,15 +34,15 @@ Repos: [contribution showcase](https://github.com/carter-howell/easyeda-copilot-
 
 ### Low-Voltage Cutoff PCB
 
-Status: PCB design / electrical design project
+Status: Completed and working PCB
 
-I designed this board to practice battery protection, voltage thresholds, schematic capture, PCB layout, component selection, and practical power-electronics documentation.
+I designed, assembled, and tested this board for battery protection and load disconnection. It demonstrates voltage-threshold design, schematic capture, PCB layout, component selection, manufacturing, assembly, and practical power-electronics debugging.
 
 Repo: [low-voltage-cutoff-pcb](https://github.com/carter-howell/low-voltage-cutoff-pcb)
 
 ### Dual Robotic Arms
 
-Status: Prototype robotics project
+Status: Completed and working robotics project
 
 I built this robotics project around servo control, 3D-printed mechanisms, embedded programming, and multi-axis hardware integration.
 
@@ -50,7 +50,7 @@ Repo: [dual-robotic-arms](https://github.com/carter-howell/dual-robotic-arms)
 
 ### Web-Controlled RC Car
 
-Status: Prototype embedded vehicle project
+Status: Working embedded vehicle / active improvements
 
 I built this ESP32-CAM vehicle to combine live video, browser control, Xbox controller support, L298N motor drive, soldered wiring, power conversion, and 3D-printed chassis work.
 
