@@ -18,7 +18,7 @@ Most of my current work involves motors, servos, batteries, embedded firmware, P
 
 Status: Working robot / active improvements
 
-I built this Wall-E robot with an ESP32, DC drive motors, servo-controlled arms and claws, Bluetooth gamepad control, a DFPlayer Mini, and 3D-printed parts. It works, and I am improving the wiring and designing a controller PCB for it.
+I built this Wall-E robot with an ESP32, DC drive motors, servo-controlled arms and claws, Bluetooth gamepad control, a DFPlayer Mini, and 3D-printed parts. The robot works, and I have also built and tested a controller PCB while continuing to improve the electronics packaging.
 
 Repo: [wall-e-robot](https://github.com/carter-howell/wall-e-robot)
 
