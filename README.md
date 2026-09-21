@@ -30,7 +30,7 @@ Status: Active open-source contribution work
 
 I contribute tested improvements to BioShot's open-source EasyEDA Copilot project. My current pull requests address incomplete project trees, safer linked-board deletion, full EasyEDA library search, and cooperative interruption of long-running scripts.
 
-Repos: [contribution showcase](https://github.com/carter-howell/pcb-designer) | [EasyEDA Copilot fork](https://github.com/carter-howell/easyeda-copilot)
+Repos: [contribution showcase](https://github.com/carter-howell/easyeda-copilot-contributions) | [EasyEDA Copilot fork](https://github.com/carter-howell/easyeda-copilot)
 
 ### Low-Voltage Cutoff PCB
 
